@@ -1,0 +1,1 @@
+{"name":"Local: smallestPostiveMissing","url":"e:\\C++\\Array\\smallestPostiveMissing.cpp","tests":[{"id":1627699598213,"input":"5\n0 -9 1 3 -4 5","output":"2"},{"id":1627699649823,"input":"5\n0 -1 1 2 4","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\Array\\smallestPostiveMissing.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: primeSieve","url":"e:\\C++\\sieve of Eratosthenes\\primeSieve.cpp","tests":[{"id":1628135443869,"input":"50","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\sieve of Eratosthenes\\primeSieve.cpp","group":"local","local":true}

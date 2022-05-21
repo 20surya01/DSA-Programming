@@ -1,0 +1,6 @@
+recursion:-PrintallPossibleWordsFromPhone
+	   towerOfHanoi
+	   generateAllsubstring
+	   substringWithASCIInumber
+
+Bit manupulation

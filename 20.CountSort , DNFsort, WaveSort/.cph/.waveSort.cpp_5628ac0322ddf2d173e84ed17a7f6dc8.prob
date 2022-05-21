@@ -1,0 +1,1 @@
+{"name":"Local: waveSort","url":"e:\\C++\\20.CountSort , DNFsort, WaveSort\\waveSort.cpp","tests":[{"id":1629188781473,"input":"7\n1 3 4 7 5 6 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\20.CountSort , DNFsort, WaveSort\\waveSort.cpp","group":"local","local":true}

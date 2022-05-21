@@ -1,0 +1,1 @@
+{"name":"Local: circularSubarryKadans","url":"e:\\C++\\Array\\circularSubarryKadans.cpp","tests":[{"id":1627722895857,"input":"7\n4 -4 6 -6 10 -11 12","output":""},{"id":1627722985636,"input":"7\n1 -2 4 -1 5 -12 10","output":"17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\Array\\circularSubarryKadans.cpp","group":"local","local":true}
