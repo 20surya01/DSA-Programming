@@ -6,14 +6,14 @@ time complexcity : O(nlogn)
 using namespace std;
 
 bool isSafe(int** arr ,int x,int y ,int n){
-    for(int row = 0;row<x ;row ++){
+    for(int row = 0;row<x ;row ++){     //roe-coloumn checking
         if(arr[row][y]==1){
             return false ;
         }
     }
     int row =x;
     int col =y;
-    while(row>=0&&col >=0){
+    while(row>=0&&col >=0){           // + Digonal checking
         if(arr[row][col] ==1){
             return false ;
         }
@@ -22,7 +22,7 @@ bool isSafe(int** arr ,int x,int y ,int n){
     }
     row =x;
     col =y ;
-    while(row>=0&&col <n){
+    while(row>=0&&col <n){         //-ve slope digonal checking
         if(arr[row][col]==1){
             return false ;
         }

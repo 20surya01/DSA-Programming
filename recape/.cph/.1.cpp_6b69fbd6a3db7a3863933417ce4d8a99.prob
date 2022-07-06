@@ -1,1 +1,1 @@
-{"name":"Local: 1","url":"e:\\C++\\recape\\1.cpp","tests":[{"id":1651570007941,"input":"this is a tribute of thalaiva\nu","output":"te of thalaiva"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\recape\\1.cpp","group":"local","local":true}
+{"name":"Local: 1","url":"e:\\C++\\recape\\1.cpp","tests":[{"id":1651570007941,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\recape\\1.cpp","group":"local","local":true}
