@@ -1,1 +1,0 @@
-{"name":"Local: new","url":"e:\\C++\\zRevision\\new.cpp","tests":[{"id":1655104045025,"input":"3\n2\nab cd\n3\naaa bab\n4\nabcd aaab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\zRevision\\new.cpp","group":"local","local":true}
