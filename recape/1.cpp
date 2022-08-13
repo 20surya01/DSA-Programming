@@ -2,9 +2,22 @@
 using namespace std;
 
 int main(){
-    vector<int> s ={1,45,31,66,22};
-    cout<<s.at(2)+s.at(0)<<" "<<s[2]+s[0]<<" ";
-    if(s[2]+s[0]<=32) cout<<true;
-    else cout<<false;
+    int x ;
+    
+    cin>>x;
+    switch (x) {
+    case 1:
+        printf("Choice is 1");
+        break;
+    case 2:
+        printf("Choice is 2");
+        break;
+    case 3:
+        printf("Choice is 3");
+        break;
+    default:
+        printf("Choice other than 1, 2 and 3");
+        break;
+    }
     return 0;
 }
