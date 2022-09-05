@@ -16,7 +16,7 @@ public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
         ListNode*  p1 =list1;
         ListNode*  p2 =list2;
-        ListNode* dummynode =new node(-1);
+        ListNode* dummynode =new ListNode(-1);
         ListNode* p3 =dummynode;
         while(p1 != NULL and p2!= NULL){
             if(p1->val < p2->val){
@@ -42,9 +42,17 @@ public:
             p2 =p2->next;
             p3=p3->next;
         }
-        return dummyNode->next;
+        return dummynode->next;
     }
 };
+void display(ListNode* head){
+    ListNode* temp =head;
+    while(temp !=NULL){
+        cout<<temp->data<<"->";
+        temp =temp->next;
+    }
+    cout<<"NULL"<<endl;
+}
 
 
 int main(){
