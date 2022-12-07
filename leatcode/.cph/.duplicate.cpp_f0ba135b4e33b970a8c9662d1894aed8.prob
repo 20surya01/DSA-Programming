@@ -1,0 +1,1 @@
+{"name":"Local: duplicate","url":"e:\\C++\\leatcode\\duplicate.cpp","tests":[{"id":1665492856340,"input":"9\n1 2 23 65 24 67 7 99 76","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\leatcode\\duplicate.cpp","group":"local","local":true}
